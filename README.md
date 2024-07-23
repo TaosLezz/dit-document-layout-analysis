@@ -13,7 +13,6 @@ Demo for Microsoft's DiT, the Document Image Transformer for state-of-the-art do
 links below). To use it, simply upload an image or use the example image below and click 'Submit'. Results will show up in a few seconds. If you want to make the output bigger, right-click on it and select 'Open image in 
 new tab'.
 ## Here are some application interface results <a name = 'interface'></a>
-<img src="pictures/giaodien.png"/>
 <img src="pictures/ketqua.png"/>
 
 ## License <a name = "license"></a>
